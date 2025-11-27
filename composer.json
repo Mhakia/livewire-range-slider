@@ -19,7 +19,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/TU-USUARIO/livewire-range-slider"
+            "url": "https://github.com/Mhakia/livewire-range-slider"
         }
     ],
 
